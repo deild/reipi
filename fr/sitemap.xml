@@ -3,76 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://deild.github.io/reipi/onepage/</loc>
+    <loc>https://deild.github.io/reipi/onepage/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://deild.github.io/reipi/en/onepage/"
+                href="https://deild.github.io/reipi/en/onepage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://deild.github.io/reipi/onepage/"
+                href="https://deild.github.io/reipi/onepage/"
                 />
   </url>
   
   <url>
-    <loc>http://deild.github.io/reipi/categories/</loc>
+    <loc>https://deild.github.io/reipi/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://deild.github.io/reipi/en/categories/"
+                href="https://deild.github.io/reipi/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://deild.github.io/reipi/categories/"
+                href="https://deild.github.io/reipi/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://deild.github.io/reipi/</loc>
+    <loc>https://deild.github.io/reipi/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://deild.github.io/reipi/en/"
+                href="https://deild.github.io/reipi/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://deild.github.io/reipi/"
+                href="https://deild.github.io/reipi/"
                 />
   </url>
   
   <url>
-    <loc>http://deild.github.io/reipi/onepage/</loc>
+    <loc>https://deild.github.io/reipi/onepage/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://deild.github.io/reipi/en/onepage/"
+                href="https://deild.github.io/reipi/en/onepage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://deild.github.io/reipi/onepage/"
+                href="https://deild.github.io/reipi/onepage/"
                 />
   </url>
   
   <url>
-    <loc>http://deild.github.io/reipi/tags/</loc>
+    <loc>https://deild.github.io/reipi/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://deild.github.io/reipi/en/tags/"
+                href="https://deild.github.io/reipi/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://deild.github.io/reipi/tags/"
+                href="https://deild.github.io/reipi/tags/"
                 />
   </url>
   
