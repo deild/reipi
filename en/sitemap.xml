@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://deild.github.io/reipi/en/onepage/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://deild.github.io/reipi/onepage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://deild.github.io/reipi/en/onepage/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://deild.github.io/reipi/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://deild.github.io/reipi/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://deild.github.io/reipi/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://deild.github.io/reipi/en/onepage/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://deild.github.io/reipi/onepage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://deild.github.io/reipi/en/onepage/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://deild.github.io/reipi/en/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://deild.github.io/reipi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://deild.github.io/reipi/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://deild.github.io/reipi/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://deild.github.io/reipi/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://deild.github.io/reipi/en/tags/"
+                />
+  </url>
+  
+</urlset>

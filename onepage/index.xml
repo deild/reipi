@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Onepages on L&#39;atelier Reipi</title>
+    <link>http://deild.github.io/reipi/onepage/</link>
+    <description>Recent content in Onepages on L&#39;atelier Reipi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>Released under the MIT license.</copyright>
+    
+	<atom:link href="http://deild.github.io/reipi/onepage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://deild.github.io/reipi/onepage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://deild.github.io/reipi/onepage/</guid>
+      <description>Services   Main d&amp;#8217;oeuvre et cordage (parmit la liste ci-dessous): 15,00 €.
+  Main d&amp;#8217;oeuvre uniquement (founir son cordage) : 10,00 €.
+  Surgrip (fourniture et ajustement) : 2,00 €.
+   Liste des cordages disponible. Me contacter si vous souhaitez y voir votre cordage préféré.
+         Marque Jauge Couleur     Adidas
+ Power Balance 69</description>
+    </item>
+    
+  </channel>
+</rss>
