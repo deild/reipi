@@ -1,0 +1,59 @@
+== Services
+
+- Main d'oeuvre et cordage (parmit la liste ci-dessous): 15,00 €.
+- Main d'oeuvre uniquement (founir son cordage) : 10,00 €.
+- Surgrip (fourniture et ajustement) : 2,00 €.
+
+Liste des cordages disponible. Me contacter si vous souhaitez y voir votre cordage préféré.
+
+[%autowidth.spread,options="header",frame=none,grid=none]
+|===
+2+|Marque |Jauge |Couleur
+
+.3+|Adidas | Power Balance 69 | 0,69 | Jaune
+|Power Team | 0,72 | Blanc
+|Power Team 66 | 0,65 | Noir
+.2+|Ashaway | Zymax 62 Fire | 0,62 | Orange
+|Zymax 65 | 0,65 | Rouge
+|Carlton | X-elerate | 0,67 | Noir
+.2+|Gosen | Gs80 | 0,70 | Bleu
+|G-tone 5 | 0,65 | Noir, Rose
+|Li-Ning | N°3 | 0,63 | Bleu
+.2+|Yonex |BG65 |0,70 |Noir
+|Nanogy 99 |0,69 |Blanc
+|===
+
+[small]#Raquette cordée sur une machine manuelle Stringway.#
+
+== Volants
+[%autowidth,options="header"]
+|===
+| Marque | Modéle | Tube de | Jupe | Vitesse
+
+| Yonex | Mavis 2000 | 6 volants | Nylon | Moyenne (bleu)
+|===
+
+
+- [small]#*Vitesse 78* : pour une température ambiante de 16 à 22 degrés.# +
+- [small]#*Vitesse 77* : volants plus lents pour une température ambiante de 23 à 27 degrés.# +
+- [small]#*Vitesse 76* : volants plus lents pour une température ambiante supérieure à 27 degrés ou jeu en altitude.#
+
+== Raquettes d'occasions
+
+[%autowidth,options="header"]
+|===
+| Marque | Modéle |
+
+// | Adidas | Adipower P750 | https://badmania.fr/badminton-p750--grip-4--124fp408.html[Informations]
+| Adidas | Adipower Tour | https://badmania.fr/badminton-adipower-tour-124fp406.html[Informations]
+| Victor | Total Inside Wave 6500 | https://matosbad.blogspot.fr/2012/06/victor-total-inside-wave-6500.html[Informations]
+// Victor	Total inside wave 6500
+// Victor	Total inside wave 6500
+// Adidas	Adipower tour
+// Adidas	Adipower tour
+// Sotx	LG 800P
+// Sotx	Circle Power S4G
+// Badmania	PMP Control EVO
+// Badmania	PMP Impact EVO
+// Li-Ning	Airstream N50 TD
+|===
