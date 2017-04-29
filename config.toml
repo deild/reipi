@@ -1,6 +1,6 @@
-baseURL = "http://deild.github.io/reipi"
+baseURL = "https://deild.github.io/reipi/"
 DefaultContentLanguage = "fr"
-languageCode = "fr"
+languageCode = "fr-FR"
 
 [params]
   copyright   = "Released under the MIT license."
