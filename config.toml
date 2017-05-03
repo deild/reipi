@@ -1,26 +1,24 @@
 baseURL = "https://deild.github.io/reipi/"
-DefaultContentLanguage = "fr"
-languageCode = "fr-FR"
+defaultContentLanguage = "fr"
 
 [params]
-  copyright   = "Released under the MIT license."
-  #authorImage = "reipi_logo.png"
-
-  renderType = "single"
-  themeStyle = "simple"
-
-  googleAnalytics = ""
-
-  name = "Samuel Marcaille"
-  pageNotFoundTitle = "404 - Page not found"
+copyright   = "Released under the MIT license."
+#authorImage = "reipi_logo.png"
+renderType = "single"
+themeStyle = "simple"
+googleAnalytics = ""
+name = "Samuel Marcaille"
+pageNotFoundTitle = "404 - Page not found"
 
 [Languages]
 [Languages.fr]
-  title       = "L'atelier Reipi"
-  subtitle    = "<img src='img/reipi_logo.png'/>"
-  description = "Besoin de recorder votre raquette ? Le cordage est souvent la composante la plus négligée du jeu. Avoir le bon cordage à la bonne tension pour votre raquette et votre style de jeu peut considérablement changer votre jeu."
+title       = "L'atelier Reipi"
+subtitle    = "<img src='img/reipi_logo.png'/>"
+description = "Besoin de recorder votre raquette ? Le cordage est souvent la composante la plus négligée du jeu. Avoir le bon cordage à la bonne tension pour votre raquette et votre style de jeu peut considérablement changer votre jeu."
+languageCode = "fr-fr"
 
 [Languages.en]
-  title       = "Reipi workshop"
-  subtitle    = "<img src='../img/reipi_logo.png'/>"
-  description = "Need to record your racket ? String is often the most neglected component of the game. Having the right string at the right tension for your racket and your playing style can dramatically change your game."
+title       = "Reipi workshop"
+subtitle    = "<img src='../img/reipi_logo.png'/>"
+description = "Need to record your racket ? String is often the most neglected component of the game. Having the right string at the right tension for your racket and your playing style can dramatically change your game."
+languageCode = "en-us"
