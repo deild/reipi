@@ -1,0 +1,5 @@
+== Plan de cordage
+
+|===
+|Racquet Name |Length |Hole |Pattern |Skip M Holes |Tie Off M |Start C |Tie Off C |Comment
+|===
