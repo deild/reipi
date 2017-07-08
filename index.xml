@@ -25,5 +25,23 @@
  Power Balance 69</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://deild.github.io/reipi/pattern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deild.github.io/reipi/pattern/</guid>
+      <description>Plan de cordage     Racquet Name
+ Length
+ Hole
+ Pattern
+ Skip M Holes
+ Tie Off M
+ Start C
+ Tie Off C
+ Comment
+      </description>
+    </item>
+    
   </channel>
 </rss>

@@ -17,6 +17,10 @@
   </url>
   
   <url>
+    <loc>https://deild.github.io/reipi/pattern/</loc>
+  </url>
+  
+  <url>
     <loc>https://deild.github.io/reipi/categories/</loc>
     <priority>0</priority>
     <xhtml:link
